@@ -1,14 +1,14 @@
 lng:
-  name: English
+  name: French
   # based on ISO_639-1 https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-  code: en
+  code: fr
   # specifically needed for open-graph meta og:locale. if open_graph or html_lng_with_country_code not enabled in _data/conf/main.yml, it's not necessary.
   # For html tags, you can enable or disable using html_lng_with_country_code defined in _data/conf/main.yml
   # based on ISO_3166-1 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
-  country: US
-  switch_title: En
+  country: FR
+  switch_title: Fr
   offer:
-    title: Language
+    title: Langue
     msg_page: View this page in English.
     # if page translation is not available, use this.
     msg_site: To English home page
@@ -149,15 +149,15 @@ about:
 
 # for links layout
 links:
-  title: Links
-  button_name: Links
+  title: Liens
+  button_name: Liens
   link_text: Web site
   info_text: Info
 
 # for projects layout
 projects:
-  title: Projects
-  button_name: Projects
+  title: Projets
+  button_name: Projets
   read_more_text: Read more
   read_less_text: Read less
 

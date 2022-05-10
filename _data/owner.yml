@@ -2,10 +2,10 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "Sofiane BOUMEDINE"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Your Name"
+name: "Sofiane BOUMEDINE"
 
 # if you don't want to add copyright year, comment or leave it blank.
 # the year during which the claimed copyright for the work was first asserted.
@@ -29,10 +29,10 @@ creative_commons:
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  #- github: ""
-  #- email: ""
-  #- linkedin: ""
-  #- twitter: ""
+  - github: "sofianeBOUMEDINE"
+  - email: "contact@sofiane-boumedine.com"
+  - linkedin: "in/Sofiane-Boumedine"
+  - twitter: "LiveinSoft"
   #- instagram: ""
   #- youtube: ""
   #- facebook: ""

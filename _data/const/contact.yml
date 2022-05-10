@@ -7,22 +7,22 @@ github:
   url: "https://www.github.com"
 email:
   icon: "fa fa-envelope-o"
-  url: ""
+  url: "contact@sofiane-boumedine.com"
 linkedin:
   icon: "fa fa-linkedin"
   url: "https://www.linkedin.com"
-twitter:
-  icon: "fa fa-twitter"
-  url: "https://www.twitter.com"
-instagram:
-  icon: "fa fa-instagram"
-  url: "https://www.instagram.com"
-youtube:
-  icon: "fa fa-youtube-play"
-  url: "https://www.youtube.com/channel"
-facebook:
-  icon: "fa fa-facebook"
-  url: "https://www.facebook.com"
+# twitter:
+#   icon: "fa fa-twitter"
+#   url: "https://www.twitter.com"
+website:
+  icon: "fa fa-website"
+  url: "https://www.sofiane-boumedine.com"
+# youtube:
+#   icon: "fa fa-youtube-play"
+#   url: "https://www.youtube.com/channel"
+# facebook:
+#   icon: "fa fa-facebook"
+#   url: "https://www.facebook.com"
 # add your new contact
 # your_new_contact:
 #   icon: "fa fa-font"
