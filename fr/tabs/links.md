@@ -39,8 +39,8 @@ lng_pair: id_links
 ###########################################################
 page_data:
   main:
-    header: "Links"
-    info: "Your Links page description."
+    header: "Liens"
+    info: "Ensemble de liens que je trouve intéressant."
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
@@ -50,9 +50,25 @@ page_data:
     - title: "Web Design"
       type: id_webdesign
       color: "#F4A273"
-    - title: "Programming"
+    - title: "Programmations"
       type: id_programming
       color: "#62b462"
+    - title: "React"
+      type: id_react
+      color: "#62b462"
+    - title: "Javascript"
+      type: id_javascript
+      color: "#62b462"
+    - title: "HTML"
+      type: id_html
+      color: "#62b462"
+    - title: "CSS"
+      type: id_css
+      color: "#62b462"
+    - title: "CI/CD"
+      type: id_cicd
+      color: "#62b462"
+
 
   list:
     -
